@@ -1,0 +1,1 @@
+This project was based on Nvidia  CUDA (Compute Unified Device Architecture) technology. 	The project was implemented using C and CUDA C languages. This project uses LU 	decomposition method to solve extensively large linear equation system represented as a large 	2-D matrix, with CUDA approach to achieve high degree of parallelism.
